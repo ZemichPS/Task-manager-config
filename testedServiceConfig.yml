@@ -21,10 +21,6 @@ eureka:
     fetch-registry: true
 
 #custom congig
-custom:
-  UserServiceTopicName: userServiceEvents
-  intervalForAttempt: 50
-  maxAttempts: 3
 
 
 
