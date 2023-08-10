@@ -1,10 +1,6 @@
 spring:
 
-  application:
-    name: tested-eureka-client
-
   kafka:
-
     bootstrap-servers: localhost:9092
 
     producer:
