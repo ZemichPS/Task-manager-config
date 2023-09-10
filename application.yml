@@ -8,7 +8,7 @@ mail:
     auth: true
     starttls: true
     debug: true
-    isSSlEnabled: true
+    ssl: true
     
     
     
