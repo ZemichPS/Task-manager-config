@@ -3,7 +3,7 @@ mail:
     host: smtp.mail.ru
     port: 465
     username: finalitacademtproject@mail.ru
-    password: '{cipher}d70f14707c0317f624823aff01915371203ed732fbc49148b3fc71e6e2cd3e26'
+    password: '{cipher}06b7f8f67b9abd32630f06cdd6621d564343117de0e09b5293c9392dba2b10654949dc6b88d77b4efa0130bf2c6ee234'
     protocol: smtp
     auth: true
     starttls: true
